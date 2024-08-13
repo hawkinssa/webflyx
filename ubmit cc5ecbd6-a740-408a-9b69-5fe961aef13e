@@ -1,0 +1,54 @@
+[33mcommit a5572ed5d517c5593b1e51c7c0471230150de3f7[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_dune[m[33m)[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 10:01:26 2024 -0500
+
+    I: fear
+
+[33mcommit 76f2766acb384ecb3f8934a1b5be416ed5d37d0d[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 10:00:48 2024 -0500
+
+    H: spice is relateable
+
+[33mcommit fe98c2b4c0d3de908b7fb03038c67df50908c470[m[33m ([m[1;32mmain[m[33m)[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 09:49:29 2024 -0500
+
+    G: ben-jamin
+
+[33mcommit 1d69924ce66747d4767e3cf8d04d38678dc353c2[m
+Merge: 79eef2f 14d4b41
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 09:43:07 2024 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 79eef2fdadfc040f90ecb5fd8efe2de85734692e[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 09:38:51 2024 -0500
+
+    E: update contents.md
+
+[33mcommit 14d4b411b356e32f89720ea6eabfbf024f31fba6[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 09:26:03 2024 -0500
+
+    D: add classics
+
+[33mcommit 9f71e17d1c7872cbba10608d6d935837d3b31ce9[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 08:59:46 2024 -0500
+
+    C: add quotes
+
+[33mcommit 4a07cfbe51417e4b294fbbc0c3077d1902b941fc[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 08:53:53 2024 -0500
+
+    B: add titles
+
+[33mcommit c0b0ba3eddd66bc29001ba5187e4a8895eced21f[m
+Author: github_username_here <email@example.com>
+Date:   Tue Aug 13 08:11:17 2024 -0500
+
+    A: add contents.md
